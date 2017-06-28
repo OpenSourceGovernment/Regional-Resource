@@ -8,7 +8,7 @@ Create a new document in the Local-Resource repository using this naming convent
 
 ##Examples Filenames:
 
-Requisition Request - Worthing - Legal Skill - 070617 1257 Green-Skye-Road.md
-Requisition Request - Maine - 4 Hours - 171217 0307 Red-Hill-Mountain.md
-Requisition Request - Mumbai - Web Server - 171217 0307 Eight-Block-Store.md
+Requisition Request - Worthing - Legal Skill - 070617 1257 Green-Skye-Road.md  
+Requisition Request - Maine - 4 Hours - 171217 0307 Red-Hill-Mountain.md  
+Requisition Request - Mumbai - Web Server - 171217 0307 Eight-Block-Store.md  
 
